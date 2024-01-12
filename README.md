@@ -3,7 +3,7 @@
 This project is a simple Pokémon battle game where two players, Arun and Nishant, face off by summoning random Pokémon to compete against each other.
 
 # Hosted Link
-https://arunesh-singhh.github.io/Meal-App/index.html
+https://arunesh-singhh.github.io/Pokemon-Game/
 
 
 ## Overview
