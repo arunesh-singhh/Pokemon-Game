@@ -2,6 +2,10 @@
 
 This project is a simple Pokémon battle game where two players, Arun and Nishant, face off by summoning random Pokémon to compete against each other.
 
+# Hosted Link
+https://arunesh-singhh.github.io/Meal-App/index.html
+
+
 ## Overview
 
 The game utilizes the [PokéAPI](https://pokeapi.co/) to fetch random Pokémon for both players. It displays their details such as name, abilities, and base experience. Players then compare the base experience of their respective Pokémon, and the player with the Pokémon having higher base experience earns a point.
